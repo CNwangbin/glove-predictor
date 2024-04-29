@@ -1,0 +1,1 @@
+/opt/miniconda/envs/pytorch2.1/bin/python train_lightattention.py --hidden-dim-attention 32 --hidden-dim-prediction 32 --hidden-dim-embedding 32 --activation relu --learning-rate 3e-4
